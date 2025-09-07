@@ -1,3 +1,3 @@
-# estudos-logica-programacao
+# Estudos-logica-programacao
 
 Atividades de lógica de programação;
